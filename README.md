@@ -3,7 +3,7 @@
 Netflix is one of the leading streaming platforms globally, offering thousands of movies and TV shows across multiple genres and languages.
 With increasing competition from Amazon Prime, Disney+, and other platforms, it is crucial to analyze Netflix’s content library to understand its trends, strengths, and opportunities for expansion.
 
-2.This project focuses on analyzing Netflix’s dataset to extract insights related to:
+ 2.This project focuses on analyzing Netflix’s dataset to extract insights related to:
 Content distribution (Movies vs TV Shows).
 Trends over time.
 Popular genres, ratings, and countries.
@@ -38,7 +38,7 @@ Duration insights.
 Visualization Tools:
 Python (pandas, matplotlib, seaborn).
 Power BI (for interactive dashboards).
-5. Key Findings
+Key Findings
 
 4.1 Movies vs TV Shows
 Movies: ~70% of total content
